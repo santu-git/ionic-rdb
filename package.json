@@ -1,0 +1,30 @@
+{
+  "name": "ionic-rdb",
+  "version": "0.0.7",
+  "description": "This plugin will provide a wrapeer of SQLit or Websql DB connection based on Platform for ionic",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santu-git/ionic-rdb.git"
+  },
+  "keywords": [
+    "sqlite",
+    "websql",
+    "ionic",
+    "relationalDB"
+  ],
+  "author": "Santu Koley <santu.cst08@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santu-git/ionic-rdb/issues"
+  },
+  "homepage": "https://github.com/santu-git/ionic-rdb#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "@angular/core": "4.3.2",
+    "ionic-angular": "^3.6.0"
+  }
+}
